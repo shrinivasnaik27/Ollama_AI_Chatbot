@@ -1,0 +1,13 @@
+- Python: 3.10 or later recommended.
+- Ollama: Installed and running on your computer.
+- AI Model: qwen3.5:0.8b
+- Python Library: ollama
+Install the Python library using:
+pip install ollama
+
+
+Download and run the model using:
+ollama pull qwen3.5:0.8b
+
+
+Start Ollama if it is not already running, then execute your Python file.
